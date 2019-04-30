@@ -1,5 +1,5 @@
 # Python-Data-Science-Projects
 
-Various data science projects completed using R markdown.
+Various data science projects completed using Jupyter Notebook.
 
-Each markdown file contains commentary on each analysis.
+Each notebook contains commentary on each analysis.
